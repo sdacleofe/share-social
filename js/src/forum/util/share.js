@@ -19,6 +19,7 @@ export const networks = {
   native: (data) => navigator.share(getNativeData(data)),
 };
 export const networkIcons = {
+  x: 'fab fa-x-twitter',
   vkontakte: 'fab fa-vk',
   my_mail: 'fas fa-at',
   qq: 'fab fa-qq',
