@@ -4,7 +4,7 @@ import pupa from 'pupa';
 
 export const networks = {
   facebook: '//facebook.com/sharer/sharer.php?u={url}',
-  twitter: '//twitter.com/share?url={url}&text={title}',
+  x: '//x.com/share?url={url}&text={title}',
   linkedin: '//linkedin.com/shareArticle?mini=true&url={url}&title={title}&summary={description}',
   reddit: '//www.reddit.com/submit?url={url}&title={title}',
   whatsapp: '//api.whatsapp.com/send/?phone&text={title}%20{url}',

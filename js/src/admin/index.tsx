@@ -3,7 +3,7 @@ import type { SelectSettingComponentOptions } from 'flarum/admin/components/Admi
 
 const networks = [
   'facebook',
-  'twitter',
+  'x',
   'linkedin',
   'reddit',
   'whatsapp',
